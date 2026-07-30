@@ -1,0 +1,8 @@
+# Node and Python artifacts
+node_modules/
+__pycache__/
+*.pyc
+.env
+*.db
+.DS_Store
+.vscode/
