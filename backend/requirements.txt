@@ -3,3 +3,9 @@ uvicorn
 sqlalchemy
 pydantic
 python-dotenv
+requests
+Pillow
+PyPDF2
+python-docx
+pytesseract
+google-generativeai
