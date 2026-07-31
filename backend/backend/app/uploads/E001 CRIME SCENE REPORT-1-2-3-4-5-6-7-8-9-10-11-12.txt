@@ -1,0 +1,28 @@
+Evidence ID:* E001 
+ *Type:*   Crime Scene Report 
+ *Location* 
+ NovaGene Biotech 
+ Laboratory Wing 3 
+ *Arrival Time* 
+ 10:42 AM 
+ # Scene Description 
+ Victim located on laboratory floor. 
+ Body positioned supine. 
+ Chair overturned. 
+ Coffee mug shattered. 
+ One nitrile glove near workstation. 
+ No signs of forced entry. 
+
+Main laboratory door locked electronically. 
+ Windows sealed. 
+ Fresh blood stain located beside microscope. 
+ Laboratory notebook missing. 
+ Collected Items 
+ Blood sample 
+ Coffee cup 
+ Broken glasses 
+ Syringe 
+ Laptop 
+ USB drive 
+ Victim phone 
+ Access card
